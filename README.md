@@ -356,4 +356,4 @@ npx wrangler d1 execute golden_dog_db --local --command "SELECT COUNT(*) AS tota
 
 ## License and ownership
 
-This project is private application code. Add the license and contribution policy appropriate for your community before making the repository public.
+This project is private application code.
